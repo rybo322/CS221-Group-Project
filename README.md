@@ -8,7 +8,7 @@ This is a group project for our second year of University. The aim is to create 
 
 ##Team
 
-* Alex Jones
+* Alex Jones - aaj10
 * Andrew Wood
 * Dean Harris
 * Nathan Sanderson
