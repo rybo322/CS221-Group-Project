@@ -15,6 +15,7 @@ This is a group project for our second year of University. The aim is to create 
 * Okiemute Daniel Ijatomi
 * Owen Garland - owg1
 * Igor Zuzzalov - igz
+* Darren Joseph - daj42
 * Add your name + email here, I can only have the people in the FB chat at the moment!
 
 ##To Do
