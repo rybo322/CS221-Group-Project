@@ -13,8 +13,8 @@ This is a group project for our second year of University. The aim is to create 
 * Dean Harris
 * Nathan Sanderson
 * Okiemute Daniel Ijatomi
-* Owen Garland
-* Add your name here, I can only have the people in the FB chat at the moment!
+* Owen Garland - owg1
+* Add your name + email here, I can only have the people in the FB chat at the moment!
 
 ##To Do
 Everything!
