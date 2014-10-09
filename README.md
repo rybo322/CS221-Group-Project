@@ -10,7 +10,7 @@ This is a group project for our second year of University. The aim is to create 
 
 * Alex Jones - aaj10
 * Andrew Wood
-* Dean Harris
+* Dean Harris - deh23
 * Nathan Sanderson
 * Okiemute Daniel Ijatomi
 * Owen Garland - owg1
